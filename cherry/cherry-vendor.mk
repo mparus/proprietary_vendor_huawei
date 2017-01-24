@@ -18,6 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/etc/firmware/fused_nvm_c8817d.bin:system/etc/firmware/fused_nvm_c8817d.bin \
     vendor/huawei/cherry/proprietary/etc/firmware/nfc_test.bin:system/etc/firmware/nfc_test.bin \
     vendor/huawei/cherry/proprietary/etc/nfc/hardfault.cfg:system/etc/nfc/hardfault.cfg \
-    vendor/huawei/cherry/proprietary/vendor/lib/hw/nfc_nci.qc199x.default.so:system/vendor/lib/hw/nfc_nci.qc199x.default.so \
-    vendor/huawei/cherry/proprietary/vendor/lib/libqnfc_nci_jni.so:system/vendor/lib/libqnfc_nci_jni.so \
-    vendor/huawei/cherry/proprietary/vendor/lib/libqnfc-nci.so:system/vendor/lib/libqnfc-nci.so
+    vendor/huawei/cherry/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
+   vendor/huawei/cherry/proprietary/vendor/lib/libnfc-nci.so:system/vendor/lib/libnfc-nci.so \
+   vendor/huawei/cherry/proprietary/vendor/lib/libnfc_nci_jni.so:system/vendor/lib/libnfc_nci_jni.so 
