@@ -20,4 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/cherry/proprietary/etc/nfc/hardfault.cfg:system/etc/nfc/hardfault.cfg \
     vendor/huawei/cherry/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
    vendor/huawei/cherry/proprietary/vendor/lib/libnfc-nci.so:system/vendor/lib/libnfc-nci.so \
-   vendor/huawei/cherry/proprietary/vendor/lib/libnfc_nci_jni.so:system/vendor/lib/libnfc_nci_jni.so 
+   vendor/huawei/cherry/proprietary/vendor/lib/libnfc_nci_jni.so:system/vendor/lib/libnfc_nci_jni.so \
+   vendor/huawei/cherry/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/huawei/cherry/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/huawei/cherry/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so 
